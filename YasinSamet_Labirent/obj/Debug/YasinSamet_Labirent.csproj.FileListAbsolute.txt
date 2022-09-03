@@ -1,0 +1,7 @@
+C:\Users\Cem\source\repos\YasinSamet_Labirent\YasinSamet_Labirent\obj\Debug\YasinSamet_Labirent.csprojAssemblyReference.cache
+C:\Users\Cem\source\repos\YasinSamet_Labirent\YasinSamet_Labirent\obj\Debug\YasinSamet_Labirent.csproj.CoreCompileInputs.cache
+C:\Users\Cem\source\repos\YasinSamet_Labirent\YasinSamet_Labirent\bin\Debug\YasinSamet_Labirent.exe.config
+C:\Users\Cem\source\repos\YasinSamet_Labirent\YasinSamet_Labirent\bin\Debug\YasinSamet_Labirent.exe
+C:\Users\Cem\source\repos\YasinSamet_Labirent\YasinSamet_Labirent\bin\Debug\YasinSamet_Labirent.pdb
+C:\Users\Cem\source\repos\YasinSamet_Labirent\YasinSamet_Labirent\obj\Debug\YasinSamet_Labirent.exe
+C:\Users\Cem\source\repos\YasinSamet_Labirent\YasinSamet_Labirent\obj\Debug\YasinSamet_Labirent.pdb
